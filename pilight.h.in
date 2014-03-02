@@ -68,6 +68,7 @@
 #cmakedefine PROTOCOL_SELECTREMOTE
 #cmakedefine PROTOCOL_SILVERCREST
 #cmakedefine PROTOCOL_WUNDERGROUND
+#cmakedefine PROTOCOL_FUKANG
 
 /* Hardware support */
 
